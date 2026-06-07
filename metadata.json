@@ -1,0 +1,6 @@
+{
+  "name": "Java Student Grade Tracker",
+  "description": "An interactive environment featuring a Java-based Student Grade Tracker, complete with an in-browser console emulator, source code explorer, visual reports, and a step-by-step runner guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
